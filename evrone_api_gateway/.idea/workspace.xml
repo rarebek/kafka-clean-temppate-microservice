@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82ecd1a8-3c09-4e56-aabc-45fe4619cd5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/internal/usecase/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/product/product.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_service/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/handlers/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/handlers/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/handlers/v1/content.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/handlers/v1/product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genproto/product/product.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/genproto/product/product.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genproto/product/product_grpc.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/genproto/product/product_grpc.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/app/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/app/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/grpc_service_client/services.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/grpc_service_client/services.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/kafka/consumer.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/kafka/consumer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/kafka/producer.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/kafka/producer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/pkg/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos" beforeDir="false" afterPath="$PROJECT_DIR$/protos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/aggregate/aggregate.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/aggregate/aggregate_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/broker/broker.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/broker/investment/investment_broker.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/broker/transaction/payment_transaction_broker.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/broker/transaction/payment_transaction_status.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/content_service/content.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/content_service/content_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/investment_service/investment.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/investment_service/investment_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/investment_service/pl.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/investor_service/investor.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/investor_service/investor_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/payment_service/payment.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/payment_service/payment_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/report_service/report.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/report_service/report_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/sms_service/sms.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/sms_service/sms_service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_service/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../product_service/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_service/internal/infrastructure/kafka/consumer.go" beforeDir="false" afterPath="$PROJECT_DIR$/../product_service/internal/infrastructure/kafka/consumer.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../pkg/mod/github.com/casbin/casbin/v2@v2.87.1/enforcer.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fBnPkZH1hGGT8zmYX1AxPcwaxg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build main.go.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="evrone_api_gateway" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="evrone_api_gateway" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/app/main.go" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

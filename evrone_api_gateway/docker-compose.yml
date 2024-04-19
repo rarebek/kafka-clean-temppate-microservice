@@ -1,0 +1,43 @@
+version: "3.7"
+services:
+  evrone_api_gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: evrone_api_gateway:latest
+    container_name: evrone_api_gateway
+    restart: always
+    ports:
+      - "50060:50060"
+    volumes:
+      - .:/data
+    depends_on:
+      - db
+    env_file: .env
+    environment:
+      - APP
+      - ENVIRONMENT
+      - LOG_LEVEL
+      - RPC_PORT
+      - CONTEXT_TIMEOUT
+      - POSTGRES_HOST
+      - POSTGRES_PORT
+      - POSTGRES_DATABASE
+      - POSTGRES_USER
+      - POSTGRES_PASSWORD
+      - POSTGRES_SSLMODE
+      - POSTGRES_DB
+      - OTP_EXPIRATION
+      - OTLP_COLLECTOR_HOST
+      - OTLP_COLLECTOR_PORT
+      - REDIS_HOST
+      - REDIS_PORT
+      - REDIS_PASSWORD
+      - REDIS_DATABASE
+      - CONTENT_SERVICE_GRPC_HOST
+      - CONTENT_SERVICE_GRPC_PORT
+
+networks:
+  default:
+    external:
+      name: development

@@ -1,0 +1,167 @@
+definitions:
+  errors.ErrResponse:
+    properties:
+      code:
+        description: application-specific error code
+        type: integer
+      error:
+        description: application-level error message, for debugging
+        type: string
+      errors:
+        additionalProperties:
+          type: string
+        type: object
+    type: object
+  models.Product:
+    properties:
+      category_id:
+        example: 9ffd6a49-3c85-4561-bbc0-0d1445741576
+        type: string
+      description:
+        example: MacBook Pro 9999
+        type: string
+      id:
+        type: string
+      name:
+        example: Laptop
+        type: string
+      unit_price:
+        example: 99.9
+        type: number
+    type: object
+info:
+  contact: {}
+paths:
+  /v1/product/add-product:
+    post:
+      consumes:
+      - application/json
+      description: Add a product to inventory
+      operationId: add-product
+      parameters:
+      - description: Enter product details
+        in: body
+        name: request
+        required: true
+        schema:
+          $ref: '#/definitions/models.Product'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Product'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+      summary: Product
+      tags:
+      - product
+  /v1/product/delete-product:
+    delete:
+      consumes:
+      - application/json
+      description: Delete one product details from inventory
+      operationId: delete-product
+      parameters:
+      - description: Product ID
+        in: query
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Product'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+      summary: Product
+      tags:
+      - product
+  /v1/product/get-product:
+    get:
+      consumes:
+      - application/json
+      description: Get one product details from inventory
+      operationId: get-product
+      parameters:
+      - description: Product ID
+        in: query
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Product'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+      summary: Product
+      tags:
+      - product
+  /v1/product/update-product:
+    put:
+      consumes:
+      - application/json
+      description: Update a product to inventory
+      operationId: update-product
+      parameters:
+      - description: Type ProductID
+        in: query
+        name: id
+        required: true
+        type: string
+      - description: Enter product details
+        in: body
+        name: request
+        required: true
+        schema:
+          $ref: '#/definitions/models.Product'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Product'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/errors.ErrResponse'
+      summary: Product
+      tags:
+      - product
+securityDefinitions:
+  ApiKeyAuth:
+    in: header
+    name: Authorization
+    type: apiKey
+swagger: "2.0"

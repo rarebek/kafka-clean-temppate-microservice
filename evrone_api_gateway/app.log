@@ -1,0 +1,335 @@
+2024-04-17T22:53:22.174+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T22:53:36.748+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T22:53:56.658+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T22:53:58.523+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T22:53:58.524+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T22:54:00.416+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T22:58:55.078+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T22:58:55.080+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T22:59:07.218+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:00:40.886+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:00:40.886+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:00:42.025+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:01:19.645+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:01:19.646+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:01:21.073+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:01:51.366+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:01:51.367+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:02:14.972+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:02:53.926+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:02:53.927+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:03:04.515+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:04:08.019+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:04:08.019+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:04:09.212+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:04:17.845+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:04:17.845+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:04:35.087+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:15:36.434+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-17T23:17:51.840+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-17T23:17:51.841+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-17T23:17:52.761+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:19:47.694+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:21:33.244+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:21:33.244+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:21:34.315+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:22:09.634+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:22:09.634+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:22:10.737+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:23:10.378+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:23:10.378+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:23:11.336+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:54:36.919+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:54:36.927+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:54:49.471+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:55:31.055+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:55:31.064+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:55:32.162+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T11:55:37.775+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T11:55:37.775+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T11:56:15.877+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:21:08.484+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:21:08.485+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:21:09.924+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:21:10.430+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:21:10.430+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:21:12.028+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:22:03.111+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:22:03.112+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:22:05.559+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:22:57.243+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:22:57.243+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:22:58.549+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:24:23.728+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:24:23.728+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:24:24.704+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:27:26.267+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:27:26.268+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:27:40.635+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:29:22.116+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:29:22.117+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:29:33.741+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:29:56.359+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:29:56.359+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:30:34.329+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:31:47.680+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:31:47.680+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:31:59.851+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:33:20.585+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:33:20.585+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:35:42.049+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:36:13.828+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:36:13.829+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:36:30.190+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:45:00.116+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:45:00.116+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:45:02.304+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:45:47.483+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:45:47.483+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:45:48.498+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:46:09.485+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:46:09.487+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:46:12.734+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:47:09.822+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:47:09.823+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T12:47:42.160+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:01:53.122+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:01:53.131+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:01:55.877+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:04:13.436+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:04:13.437+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:04:26.707+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:05:25.846+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:05:25.846+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:05:26.771+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:16:53.833+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:16:53.834+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:16:55.295+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:23:19.404+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:23:19.406+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:23:36.426+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:24:00.758+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:24:00.759+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:25:36.140+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:26:10.394+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:26:10.394+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:26:12.056+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:26:58.894+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:26:58.894+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:27:08.297+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:31:02.179+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:31:02.179+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/evrone_api_gateway/cmd/app/main.go:32
+2024-04-18T13:39:44.000+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-19T17:52:25.500+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-19T17:55:34.345+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-19T17:55:34.348+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/cmd/app/main.go:32
+2024-04-19T17:55:35.597+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-19T17:57:54.588+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-19T17:57:54.589+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/cmd/app/main.go:32
+2024-04-19T17:58:45.953+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-19T17:58:49.383+0500	ERROR	v1/product.go:105	kafka error	{"error": "dial tcp 127.0.0.1:9092: connect: connection refused"}
+evrone_api_gateway/api/handlers/v1.NewProductHandler.func1.(*productHandler).addProduct.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/api/handlers/v1/product.go:105
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*ChainHandler).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/chain.go:31
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:73
+github.com/go-chi/chi/v5.(*Mux).Mount.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:327
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:73
+github.com/go-chi/chi/v5.(*Mux).Mount.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:327
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/cors.(*Cors).Handler-fm.(*Cors).Handler.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/cors@v1.2.1/cors.go:228
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+evrone_api_gateway/api.NewRoute.Timeout.func2.1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/timeout.go:44
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.Recoverer.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/recoverer.go:45
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.init.0.RequestLogger.func1.1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/logger.go:55
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.RealIP.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/realip.go:36
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:90
+net/http.serverHandler.ServeHTTP
+	/usr/local/go/src/net/http/server.go:3137
+net/http.(*conn).serve
+	/usr/local/go/src/net/http/server.go:2039
+2024-04-19T18:04:39.998+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-19T18:04:40.007+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/cmd/app/main.go:32
+2024-04-19T18:04:41.978+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-19T18:04:49.002+0500	ERROR	v1/product.go:105	kafka error	{"error": "[5] Leader Not Available: the cluster is in the middle of a leadership election and there is currently no leader for this partition and hence it is unavailable for writes"}
+evrone_api_gateway/api/handlers/v1.NewProductHandler.func1.(*productHandler).addProduct.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/api/handlers/v1/product.go:105
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*ChainHandler).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/chain.go:31
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:73
+github.com/go-chi/chi/v5.(*Mux).Mount.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:327
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:73
+github.com/go-chi/chi/v5.(*Mux).Mount.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:327
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).routeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:459
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/cors.(*Cors).Handler-fm.(*Cors).Handler.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/cors@v1.2.1/cors.go:228
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+evrone_api_gateway/api.NewRoute.Timeout.func2.1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/timeout.go:44
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.Recoverer.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/recoverer.go:45
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.init.0.RequestLogger.func1.1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/logger.go:55
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5/middleware.RealIP.func1
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/middleware/realip.go:36
+net/http.HandlerFunc.ServeHTTP
+	/usr/local/go/src/net/http/server.go:2166
+github.com/go-chi/chi/v5.(*Mux).ServeHTTP
+	/home/nodirbek/go/pkg/mod/github.com/go-chi/chi/v5@v5.0.12/mux.go:90
+net/http.serverHandler.ServeHTTP
+	/usr/local/go/src/net/http/server.go:3137
+net/http.(*conn).serve
+	/usr/local/go/src/net/http/server.go:2039
+2024-04-19T18:05:01.273+0500	INFO	kafka/producer.go:33	kafka investmentCreated message{partition 11 0  <nil>} {offset 11 0  <nil>} {key 15 0 1 <nil>} {value 15 0 {"ID":"string","Name":"Laptop","Description":"MacBook Pro 9999","CategoryID":"9ffd6a49-3c85-4561-bbc0-0d1445741576","UnitPrice":99.9} <nil>}
+2024-04-19T19:45:31.758+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-19T19:45:31.759+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/evrone_api_gateway/cmd/app/main.go:32
